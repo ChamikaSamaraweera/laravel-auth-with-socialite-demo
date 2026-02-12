@@ -18,7 +18,7 @@ A demo Laravel application with authentication and social login integration usin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/teaminfinitydev/laravel-auth-with-socialite-demo.git
+git clone https://github.com/ChamikaSamaraweera/laravel-auth-with-socialite-demo.git
 cd laravel-auth-with-socialite-demo
 ```
 
